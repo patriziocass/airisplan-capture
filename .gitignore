@@ -1,0 +1,8 @@
+app/AirisPlanCapture.xcodeproj/
+app/Sources/Info.plist
+build/
+Payload/
+*.ipa
+*.log
+.DS_Store
+xcuserdata/
